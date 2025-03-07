@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @gitfromwildan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Wildan! 👋
 
-<!---
-gitfromwildan/gitfromwildan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Frontend Developer** from Bandung, West Java - Indonesia.  
+Born in 1994, I have a deep passion for programming and love building web applications.
+
+### 🔧 Tech Stack
+- ⚡ **Frontend**: TypeScript, Next.js, TailwindCSS   
+- 📚 **Open Source**: Author of [DocuBook](https://gitlab.com/mywildancloud/docubook), a documentation web framework build with React
+
+### 📬 Let's Connect!
+- 💬 Active on Telegram: [@wildannrs](https://t.me/wildannrs)  
+- 🏗️ Open for discussions about projects and collaborations  
+
+Feel free to check out my repositories and contributions! 🚀
