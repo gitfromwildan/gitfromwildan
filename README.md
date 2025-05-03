@@ -6,7 +6,7 @@ Born in 1994, I have a deep passion for programming and love building web applic
 > Author of [DocuBook](https://gitlab.com/mywildancloud/docubook), a documentation web framework build with React
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,js,ts,nodejs,bun,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,js,ts,nodejs,bun,git)](https://docubook.pro)
 
 #### Connect with Me
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wildan.nrsh) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wildannrs) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wildan.nrs) [![threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@wildan.nrs) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wildan_nrss)
