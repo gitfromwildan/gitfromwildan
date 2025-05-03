@@ -1,15 +1,15 @@
-# Hi there, I'm Wildan! 👋
+![banner](banner.png)
 
-I'm a **Frontend Developer** from Bandung, West Java - Indonesia.  
+> I'm a **Frontend Developer** from Bandung, West Java - Indonesia.
 Born in 1994, I have a deep passion for programming and love building web applications.
 
-### Tech Stack
-- **Frontend**: TypeScript, Next.js, TailwindCSS
-- **Runtime**: NodeJS and Bun   
-- **Open Source**: Author of [DocuBook](https://gitlab.com/mywildancloud/docubook), a documentation web framework build with React
+> Author of [DocuBook](https://gitlab.com/mywildancloud/docubook), a documentation web framework build with React
 
-### 📬 Let's Connect!
-- 💬 Active on Telegram: [@wildannrs](https://t.me/wildannrs)  
-- 🏗️ Open for discussions about projects and collaborations  
+#### Skills
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,js,ts,nodejs,bun,git)](https://skillicons.dev)
 
-Feel free to check out my repositories and contributions! 🚀
+#### Connect with Me
+![https://www.facebook.com/wildan.nrsh](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://t.me/wildannrs](    https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![https://www.instagram.com/wildan.nrs/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.threads.com/@wildan.nrs](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) ![https://x.com/wildan_nrss](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+#### Github Stats
+![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitfromwildan&show_icons=true&theme=merko)
