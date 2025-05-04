@@ -19,3 +19,4 @@ Born in 1994, I have a deep passion for programming and love building web applic
 
 #### Github Stats
 [![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitfromwildan&show_icons=true&theme=merko)](https://github.com/gitfromwildan)
+
