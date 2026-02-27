@@ -3,7 +3,7 @@
 > I'm a **Frontend Developer** from Bandung, West Java - Indonesia.
 Born in 1994, I have a deep passion for programming and love building web applications.
 
-> Author of [DocuBook](https://docubook.pro/), a documentation web framework build with React
+> Author of [DocuBook](https://docubook.pro/), The Universal Documentation Engine for any JavaScript Framework. 🔥
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,js,ts,nodejs,bun,git)](https://docubook.pro)
