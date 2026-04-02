@@ -2,7 +2,7 @@
 
 > I'm a **Passionate Developer** from Bandung, West Java - Indonesia.
 Born in 1994, I have a deep passion for programming and love building web applications.
-> Turning coffee into code and Open Source contributions. I build things that (mostly) work and love helping people. You can usually summon me on Telegram.
+> Turning coffee into code and Open Source contributions. I build things that (mostly) work and love helping people. You can usually summon me on [Telegram](https://t.me/wildannrs).
 
 > Author of [DocuBook](https://docubook.pro/), The Universal Documentation Engine for React Framework. 🔥
 
