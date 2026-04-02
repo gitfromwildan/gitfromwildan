@@ -6,9 +6,9 @@ Born in 1994, I have a deep passion for programming and love building web applic
 
 > Author of [DocuBook](https://docubook.pro/), The Universal Documentation Engine for React Framework. 🔥
 
+Thank you for supporting me! ❤️
 
-#### Sponsor me
-<iframe src="https://github.com/sponsors/gitfromwildan/button" title="Sponsor gitfromwildan" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/gitfromwildan)
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,js,ts,nodejs,bun,git)](https://docubook.pro)
