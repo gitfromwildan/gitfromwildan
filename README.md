@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](headbanner.png)
 
 > I'm a **Passionate Developer** from Bandung, West Java - Indonesia.
 Born in 1994, I have a deep passion for programming and love building web applications.
